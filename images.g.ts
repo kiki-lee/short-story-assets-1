@@ -1,5 +1,5 @@
 // Auto-generated code. Do not edit.
-namespace storyImages1 {
+namespace sprites.background {
 
     helpers._registerFactory("image", function(name: string) {
         switch(helpers.stringTrim(name)) {

@@ -27,6 +27,6 @@
     "*": {
         "mimeType": "image/x-mkcd-f4",
         "dataEncoding": "base64",
-        "namespace": "storyImages1"
+        "namespace": "sprites.background"
     }
 }

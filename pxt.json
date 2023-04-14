@@ -9,8 +9,8 @@
         "main.blocks",
         "main.ts",
         "assets.json",
-        "images.g.jres",
-        "images.g.ts"
+        "story1.jres",
+        "story1.ts"
     ],
     "testFiles": [
         "test.ts"
